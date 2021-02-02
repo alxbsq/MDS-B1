@@ -2,5 +2,5 @@
 
 
 
-Apprentissage de l'utilisation des commandes Git
+Apprentissage à l'utilisation des commandes Git
 
